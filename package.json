@@ -1,0 +1,17 @@
+{
+  "name": "fluke-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopinath",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^7.22.0"
+  },
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}

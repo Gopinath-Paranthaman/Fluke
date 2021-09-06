@@ -1,0 +1,14 @@
+{
+  "Tests": [
+    {
+      "Scenario": "Test Users Tab",
+      "Tab": "USERS",
+      "DropdownSelection": "Customer"
+    },
+    {
+      "Scenario": "Test Projects Tab",
+      "Tab": "PROJECTS",
+      "DropdownSelection": "Jim's Organization"
+    }
+  ]
+}
